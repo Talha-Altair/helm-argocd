@@ -1,6 +1,6 @@
 name: altair
 
-replicas: 3
+replicas: 2
 
 deployment:
   image:
