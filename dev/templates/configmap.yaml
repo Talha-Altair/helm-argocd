@@ -9,4 +9,7 @@ data:
       "poda" : "loosu",
       "apple" : 10
     }
-  talha : "Altair"
+  talha :
+    - "fuck off"
+    - "really man"
+    ezio: "auditore"
