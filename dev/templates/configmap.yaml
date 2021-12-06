@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: "{{ .Values.name }}"
+data:
+  config: |
+    {
+      "environment" : "dev",
+      "poda" : "loosu",
+      "apple" : 10
+    }
+  talha : "Altair"

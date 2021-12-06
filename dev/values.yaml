@@ -1,0 +1,9 @@
+name: altair
+
+replicas: 3
+
+deployment:
+  image:
+    name: docker.io/talhaabdurrahman/env-tester
+    tag: latest
+  port: 8500
